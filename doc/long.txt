@@ -1,0 +1,1808 @@
+thing	
+<link rel="stylesheet" type="text/css" href="sf_ecce.css"/>\n
+<span class="word">
+    <span class="return-phrase">
+        <span class="l">
+            <span class="i">thing</span>
+            <span class="i">
+                <span class="upper">1</span>
+            </span>
+        </span>
+    </span>
+    <span class="phone">[θiŋ]</span>
+    <span class="trs">
+        <span class="pos">n.</span>
+        <span class="tr">
+            <span class="l">
+                <span class="entryNum">1.</span>
+                <span class="entryDot">■</span>
+                <span class="i">物，东西，物件；事物</span>
+            </span>
+        </span>
+        <span class="tr">
+            <span class="l">
+                <span class="entryNum">2.</span>
+                <span class="entryDot">■</span>
+                <span class="i">[常作复数]事件；事情</span>
+            </span>
+        </span>
+        <span class="tr">
+            <span class="l">
+                <span class="entryNum">3.</span>
+                <span class="entryDot">■</span>
+                <span class="i">[常作复数]局面；情况；形势</span>
+            </span>
+        </span>
+        <span class="tr">
+            <span class="l">
+                <span class="entryNum">4.</span>
+                <span class="entryDot">■</span>
+                <span class="i">事业；行动；举动</span>
+            </span>
+        </span>
+        <span class="tr">
+            <span class="l">
+                <span class="entryNum">5.</span>
+                <span class="entryDot">■</span>
+                <span class="i">目的；目标</span>
+            </span>
+        </span>
+        <span class="tr">
+            <span class="l">
+                <span class="entryNum">6.</span>
+                <span class="entryDot">■</span>
+                <span class="i">成就，成果，成绩</span>
+            </span>
+        </span>
+        <span class="tr">
+            <span class="l">
+                <span class="entryNum">7.</span>
+                <span class="entryDot">■</span>
+                <span class="i">[复数](个人的)所有物；用品；衣服</span>
+            </span>
+        </span>
+        <span class="tr">
+            <span class="l">
+                <span class="entryNum">8.</span>
+                <span class="entryDot">■</span>
+                <span class="i">[复数](用于某种目的的)用具，物品</span>
+            </span>
+        </span>
+        <span class="tr">
+            <span class="l">
+                <span class="entryNum">9.</span>
+                <span class="entryDot">■</span>
+                <span class="i">人；家伙；东西(指人或生物，带有爱、怜悯或轻蔑等感情色彩)</span>
+            </span>
+        </span>
+        <span class="tr">
+            <span class="l">
+                <span class="entryNum">10.</span>
+                <span class="entryDot">■</span>
+                <span class="i">项目；细节；方面</span>
+            </span>
+        </span>
+        <span class="tr">
+            <span class="l">
+                <span class="entryNum">11.</span>
+                <span class="entryDot">■</span>
+                <span class="i">属性；特征</span>
+            </span>
+        </span>
+        <span class="tr">
+            <span class="l">
+                <span class="entryNum">12.</span>
+                <span class="entryDot">■</span>
+                <span class="i">陈述；想法；主题</span>
+            </span>
+        </span>
+        <span class="tr">
+            <span class="l">
+                <span class="entryNum">13.</span>
+                <span class="entryDot">■</span>
+                <span class="i">[口语](争论的)论点；争端</span>
+            </span>
+        </span>
+        <span class="tr">
+            <span class="l">
+                <span class="entryNum">14.</span>
+                <span class="entryDot">■</span>
+                <span class="i">[the thing]正需要的东西；最适合的东西；最流行的东西</span>
+            </span>
+        </span>
+        <span class="tr">
+            <span class="l">
+                <span class="entryNum">15.</span>
+                <span class="entryDot">■</span>
+                <span class="i">[美国口语]怪癖；惧怕；病态的恐惧</span>
+            </span>
+        </span>
+        <span class="tr">
+            <span class="l">
+                <span class="entryNum">16.</span>
+                <span class="entryDot">■</span>
+                <span class="i">[复数，后接形容词]文物</span>
+            </span>
+        </span>
+        <span class="tr">
+            <span class="l">
+                <span class="entryNum">17.</span>
+                <span class="entryDot">■</span>
+                <span class="i">【法律】财产</span>
+            </span>
+        </span>
+        <span class="tr">
+            <span class="l">
+                <span class="entryNum">18.</span>
+                <span class="entryDot">■</span>
+                <span class="i">【哲学】存在</span>
+            </span>
+        </span>
+        <span class="tr">
+            <span class="l">
+                <span class="entryNum">19.</span>
+                <span class="entryDot">■</span>
+                <span class="i">[美国俚语]心爱物；拿手好戏；个人爱好(常与do连用)</span>
+            </span>
+        </span>
+    </span>
+    <span class="phrs">
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr1">a close (或near) thing</a>
+                    </span>
+                </span>
+            </span>
+            <span class="tr">
+                <span class="l">
+                    <span class="i">险胜；侥幸的脱险；侥幸成功的事情；差点失败的事情(如比赛、战斗、选举等) [亦作 a close-run thing]</span>
+                </span>
+                <span class="l">
+                    <span class="i">极其危险，千钧一发，差点发生的意外事件</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr2">above all things</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">首要的是，尤其是，最重要的是</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr3">a general thing</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">惯例</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr4">all things considered</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">总的看来，从各方面看来</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr5">all things to all men</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">竭力讨好所有人，八面玲珑[源自《圣经》]</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr6">among other things</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">其中；除了别的以外(还)</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr7">amount (或 come) to the same thing</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">结果相同，结果都一样</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr8">and another thing</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">此外，再者</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr9">and things</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">[口语]等等之类</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr10">an understood thing</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">心照不宣的事；已经商妥的事</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr11">any old thing</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">[俚语]任何东西都…，什么都可以</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr12">a near thing</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">= a close thing</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr13">a soft thing</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">[俚语]工作轻松而报酬优厚的差事，美差；有利的事；容易取胜的比赛；有利的买卖</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr14">as things are (或 go,stand)</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">[口语]在当前情况下；照目前看来</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr15">a thing or two</a>
+                    </span>
+                </span>
+            </span>
+            <span class="tr">
+                <span class="l">
+                    <span class="i">真相；秘闻；内幕消息</span>
+                </span>
+                <span class="l">
+                    <span class="i">许多</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr16">a usual thing</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">= a general thing</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr17">be all things to someone</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">对某人百依百顺；顺从某人的爱好；处处遵从某人</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr18">be on to a good thing</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">[口语]有好职业；有好生活</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr19">be the thing</a>
+                    </span>
+                </span>
+            </span>
+            <span class="tr">
+                <span class="l">
+                    <span class="i">[常用于否定句]符合礼节；恰当；体面</span>
+                </span>
+                <span class="l">
+                    <span class="i">符合要求；符合需要；合适</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr20">be up to a thing or two</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">机灵，精明能干；见多识广；富于处世经验</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr21">call things by their (proper) names</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">据实而言，该叫什么就叫什么</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr22">come to the same thing(as)</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">结果都一样，结果相同；意义相同</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr23">do one's (own)thing</a>
+                    </span>
+                </span>
+            </span>
+            <span class="tr">
+                <span class="l">
+                    <span class="i">[口语]以自己的独特方式(或风格、特长等)表现自己的性格；干自己最喜欢(或拿手、擅长)的事</span>
+                </span>
+                <span class="l">
+                    <span class="i">放手行事；一意孤行，为所欲为</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr24">do the handsome thing by</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">慷慨地对待，宽厚地对待，慷慨赞助某人，厚待某人[亦作 do the handsome by]</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr25">do the right thing by someone</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">帮助某人；对某人好；恰当地对待某人</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr26">do things to</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">显著地影响…</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr27">dumb things</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">[蔑语]畜生，牲畜</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr28">feel out of things (或 it)</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">[口语](由于不习惯、陌生、害羞等)感到自己没有份；感到格格不入</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr29">first thing</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">首先；立即；作为第一件要做的事</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr30">first thing off the bat</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">立即，马上</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr31">first things first</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">[常与动词 do，put 连用]重要的事先来</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr32">for  one thing</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">首先；一则；举个理由</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr33">for one thing…; for another (thing)…</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">首先…，再者…</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr34">get things square</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">把事情弄清楚；使事情正常</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr35">good thing</a>
+                    </span>
+                </span>
+            </span>
+            <span class="tr">
+                <span class="l">
+                    <span class="i">人们赞许的事情；满意的东西；幸运的事情</span>
+                </span>
+                <span class="l">
+                    <span class="i">投进买卖；有利的投机生意；有利可图的交易</span>
+                </span>
+                <span class="l">
+                    <span class="i">俏皮话；令人捧腹的笑话；隽永的话</span>
+                </span>
+                <span class="l">
+                    <span class="i">[good things] 美味佳肴；奢侈品</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr36">have a (或 this) thing about</a>
+                    </span>
+                </span>
+            </span>
+            <span class="tr">
+                <span class="l">
+                    <span class="i">[口语]</span>
+                </span>
+                <span class="l">
+                    <span class="i">对…有特别的恐惧(或厌恶)；对…感到莫名其妙的恐惧(或厌恶)；被…缠住</span>
+                </span>
+                <span class="l">
+                    <span class="i">特别向往…；特别爱好…；对…感兴趣</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr37">have a thing with someone</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">[口语]与某人有染</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr38">hear things</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">= see things</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr39">How are things?</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">[口语]近来如何?近况如何?</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr40">how things (或 matters) stand</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">实际情况如何</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr41">(it is) too much of a good thing</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">(好事做过头)让人受不了；好事不宜做得过火；好得过头反成坏事</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr42">It's one thing to flourish and another to fight.</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">舞剑是一回事，战斗是另一回事。</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr43">(just) one of those things</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">不可回避的事；命中注定的事；很难解释的事</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr44">just the thing</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">正是所需要的</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr45">keep a thing private</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">保守秘密</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr46">know a thing or two</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">= be up to a thing or two</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr47">learn a thing or two</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">学会一些东西</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr48">learn things to look after themselves</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">忽略事情的发展；对事情不够注意</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr49">let things go hang</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">[口语]随它去，不管它；听其自然；对事情不关心[亦作 let things rip (或 slide) ]</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr50">like one thing</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">[澳大利亚口语、美国方言]拼命；用全力</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr51">little thing</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">小家伙，小人儿，小乖乖(对女人或小孩的爱称)</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr52">make a good thing (out) of</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">从…中获得好处(或利益)；从…赚到钱</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr53">make a regular thing of</a>
+                    </span>
+                </span>
+            </span>
+            <span class="tr">
+                <span class="l">
+                    <span class="i">使…成为制度</span>
+                </span>
+                <span class="l">
+                    <span class="i">使…成为习惯</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr54">make a thing of</a>
+                    </span>
+                </span>
+            </span>
+            <span class="tr">
+                <span class="l">
+                    <span class="i">把…作为争论点</span>
+                </span>
+                <span class="l">
+                    <span class="i">对…大惊小怪；对…小题大作；把…当做一回事；认为…不得了</span>
+                </span>
+                <span class="l">
+                    <span class="i">从…中获得好处(或很多利益)</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr55">make things hum</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">[口语]搞得有声有色，搞得很热闹；使气氛活跃起来；使有活力；使兴旺</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr56">make things lively for</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">[戏谑语]使…感到紧张(或恐慌)；使…感到不愉快；使…为难</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr57">make things (或 it) warm for someone</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">惩罚某人，使某人吃苦头；使某人处境难堪</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr58">Never do things by halves.</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">[谚语]做事不可半途而废；干就要干到底。</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr59">no great things</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">[口语]平常得很；并不怎么出色；并不怎么重要，没什么了不起</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr60">no such thing</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">[口语]没有的事；没有这样的事；哪里会；完全不对</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr61">not a thing</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">没东西；什么都没有</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr62">not care a thing</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">[口语]一点也不在乎，根本不放在心上</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr63">not do a thing</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">什么事都不做，不肯帮忙，一动也不动</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr64">not get a thing out of</a>
+                    </span>
+                </span>
+            </span>
+            <span class="tr">
+                <span class="l">
+                    <span class="i">从…得不到情报(或消息)</span>
+                </span>
+                <span class="l">
+                    <span class="i">听不懂；不能欣赏；不能得到益处</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr65">not know the first thing about something</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">什么都不知道；对某事一窍不通</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr66">not (feel) quite the thing</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">身体不舒服[亦作 not at all the thing]</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr67">of all things</a>
+                    </span>
+                </span>
+            </span>
+            <span class="tr">
+                <span class="l">
+                    <span class="i">首先；尤其，特别</span>
+                </span>
+                <span class="l">
+                    <span class="i">竟然这样；怎么搞的；偏偏(表示愤怒、惊讶等)</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr68">old thing</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">[俚语]老家伙；老兄；老朋友</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr69">on to a good thing</a>
+                    </span>
+                </span>
+            </span>
+            <span class="tr">
+                <span class="l">
+                    <span class="i">[口语]</span>
+                </span>
+                <span class="l">
+                    <span class="i">从事有益的事业；从事赚钱的事业</span>
+                </span>
+                <span class="l">
+                    <span class="i">过着舒适的生活；找到待遇高(或舒适)的工作</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr70">other things being equal</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">在其他条件相同的前提下，如果前提情形都一样</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr71">out of things</a>
+                    </span>
+                </span>
+            </span>
+            <span class="tr">
+                <span class="l">
+                    <span class="i">[口语]</span>
+                </span>
+                <span class="l">
+                    <span class="i">置身于局外</span>
+                </span>
+                <span class="l">
+                    <span class="i">闷闷不乐</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr72">poor thing</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">可怜的人，可怜的家伙</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr73">pretty much the same thing</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">几乎一样</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr74">put things straight</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">整顿局面；消除混乱</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr75">quite the thing</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">很时髦的东西</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr76">see things</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">[口语]见神见鬼；产生幻觉</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr77">send things flying</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">四处乱扔东西</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr78">smooth things</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">(虚伪的)恭维话</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr79">square thing</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">正直的行为；公平的交易</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr80">sure thing</a>
+                    </span>
+                </span>
+            </span>
+            <span class="tr">
+                <span class="l">
+                    <span class="i">[美国口语]</span>
+                </span>
+                <span class="l">
+                    <span class="i">必然的事情；肯定会成功的事情</span>
+                </span>
+                <span class="l">
+                    <span class="i">一定，当然，没问题</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr81">take off one's things</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">脱去大衣(或外衣等)</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr82">take one thing with another</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">考虑各种情况；权衡利弊(或得失)</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr83">take things as they are (或 come)</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">对一切事情处之泰然；安于现状；随遇而安</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr84">take things (或 it) easy</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">见 easy</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr85">tell someone a thing or two</a>
+                    </span>
+                </span>
+            </span>
+            <span class="tr">
+                <span class="l">
+                    <span class="i">[口语]</span>
+                </span>
+                <span class="l">
+                    <span class="i">坦率地对某人讲讲；对某人直言不讳</span>
+                </span>
+                <span class="l">
+                    <span class="i">责备某人；教训教训某人</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr86">That's a nice thing (to do,to say 等)</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">[口语]好意思这样讲!做得好事!(做得，说得等)真好![表示不满、愤怒的讽刺语]</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr87">the best thing (to do)</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">最好的办法</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr88">the clean thing</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">光明正大的行为，正当的行为</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr89">the general (或 common,usual) thing</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">= a general thing</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr90">(the) last thing</a>
+                    </span>
+                </span>
+            </span>
+            <span class="tr">
+                <span class="l">
+                    <span class="i">最不愿意的事；最不适宜的事；最不可能的事；最意想不到的事</span>
+                </span>
+                <span class="l">
+                    <span class="i">在临睡前；作为就寝前的最后一件事</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr91">the last (或 latest) thing in</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">最新式样的；最新出现的；最新发明的</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr92">the next best thing</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">所剩下的最好的事情；次好的事物 [亦作 the next best]</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr93">(the) next thing</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">其次，下一步，随后，接下去</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr94">the polite thing</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">[口语]文雅的态度，彬彬有礼</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr95">the real thing</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">[口语]道地货，上等货，原装货</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr96">the run (或 state) of things</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">见 run</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr97">the thing</a>
+                    </span>
+                </span>
+            </span>
+            <span class="tr">
+                <span class="l">
+                    <span class="i">重要的事；重要的想法</span>
+                </span>
+                <span class="l">
+                    <span class="i">流行的式样(或形式)</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr98">the thing is</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">问题是；最重要的是</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr99">There is such a thing as …!</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">[口语]不要忘记世界上还存在着…呢!(常含威胁的口吻)</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr100">thing in itself</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">【哲学】物自体；自在之物</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr101">thing of naught</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">无价值的东西，无用之物</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr102">thing of the past</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">过去的事；已没关系的事</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr103">Things are in good train.</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">事情很顺利。</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr104">Things look black (或 nasty).</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">事态险恶；事情不妙，有恶化之势。</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr105">Things look blue.</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">情况令人沮丧，事情令人悲观。</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr106">Things look promising.</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">有好转之势，情况看来有希望。</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr107">things without us</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">外界一切事物</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr108">twopenny-halfpenny thing</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">不值钱的东西，没什么价值的东西</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr109">whoop things up</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">见 whoop²</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr110">work things out</a>
+                    </span>
+                </span>
+            </span>
+            <span class="des">
+                <span class="l">
+                    <span class="i">解决个人问题</span>
+                </span>
+            </span>
+        </span>
+        <span class="i">
+            <span class="phr">
+                <span class="l">
+                    <span class="i">
+                        <a name="phr111">young thing</a>
+                    </span>
+                </span>
+            </span>
+            <span class="tr">
+                <span class="l">
+                    <span class="i">[古语]</span>
+                </span>
+                <span class="l">
+                    <span class="i">年轻姑娘</span>
+                </span>
+                <span class="l">
+                    <span class="i">小伙子</span>
+                </span>
+            </span>
+        </span>
+    </span>
+    <span class="wfs"></span>
+</span>\n
+<br>\n
+    <link rel="stylesheet" type="text/css" href="sf_ecce.css"/>\n
+    <span class="word">
+        <span class="return-phrase">
+            <span class="l">
+                <span class="i">thing</span>
+                <span class="i">
+                    <span class="upper">2</span>
+                </span>
+            </span>
+        </span>
+        <span class="phone">[θiŋ; tiŋ]</span>
+        <span class="trs">
+            <span class="pos">n.</span>
+            <span class="tr">
+                <span class="l">
+                    <span class="entryNum">1.</span>
+                    <span class="entryDot">■</span>
+                    <span class="i">(斯堪的纳维亚各国的)立法机构；司法机构；议会[亦作 ting]</span>
+                </span>
+            </span>
+        </span>
+        <span class="wfs"></span>
+    </span>\n
